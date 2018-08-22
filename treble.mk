@@ -63,10 +63,6 @@ PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.0-service \
     android.hardware.vibrator@1.0-impl
 
-# Power HAL
-PRODUCT_PACKAGES += \
-    android.hardware.power@1.1-service-qti
-
 # Thermal HAL
 PRODUCT_PACKAGES += \
     android.hardware.thermal@1.0-service \
